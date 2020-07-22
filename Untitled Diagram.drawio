@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-22T19:03:02.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="oEjJNvxZQuPtjPI90BKI" version="13.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-22T21:39:48.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="SytOmS0xPALbd7c_p2il" version="13.5.1" type="github">
   <diagram id="I3RDu3uF4BKvBF8ceXsN" name="Page-1">
-    <mxGraphModel dx="2333" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1443" dy="1403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,8 @@
         <mxCell id="wK1W2rStJV0fX94CkyXz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-1" target="wK1W2rStJV0fX94CkyXz-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wK1W2rStJV0fX94CkyXz-1" value="&lt;p&gt;A.0 Enter arena&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="10" y="30" width="150" height="80" as="geometry" />
+        <mxCell id="wK1W2rStJV0fX94CkyXz-1" value="&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;A.0 Enter arena&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;As I enter the arena I see him. Big guy with an axe, seems like this time won&#39;t be easy. Better be carefull with this one.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;As soon as I enter, he screams and charges like some kind of barbarian. Ok, I guess he is in a rush. &quot;Guide my blades lord &quot;, you think as you feel your sword to one side, your small knife to the other. Ha, as if he would do something for you.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;What should I do?&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;1.&amp;nbsp; Lets do this! - You rush to meet him.&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;2. Let him come. - You stand your ground.&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="10" y="30" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wK1W2rStJV0fX94CkyXz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-3" target="wK1W2rStJV0fX94CkyXz-6">
           <mxGeometry relative="1" as="geometry" />
@@ -25,7 +25,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wK1W2rStJV0fX94CkyXz-3" value="&lt;p&gt;A.1 Rushing enemy&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="wK1W2rStJV0fX94CkyXz-3" value="&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;A.1 Rushing enemy&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;Better not to show fear, you rush to meet him in the middle of the arena, ready give a good show.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;Just a few steps away now... Should I go for his free hand side or his axe one?&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;1. Go right -Strike his side as he lift his heavy axe.&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;2. Go left - Hurt him on his unprotected side.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="180" y="30" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wK1W2rStJV0fX94CkyXz-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-4" target="wK1W2rStJV0fX94CkyXz-5">
@@ -34,20 +34,20 @@
         <mxCell id="wK1W2rStJV0fX94CkyXz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.661;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-4" target="wK1W2rStJV0fX94CkyXz-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wK1W2rStJV0fX94CkyXz-4" value="&lt;p&gt;B.1 Analizing enemy&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="10" y="130" width="150" height="80" as="geometry" />
+        <mxCell id="wK1W2rStJV0fX94CkyXz-4" value="&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;B.1 Analizing enemy&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;You wait patienly&amp;nbsp; for him to cross the field and it feels like ages.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;You try took calm as this bull-like man runs towards you, seems like he is smiling. As he aproaches you realize a nearly indetectable lip on his right leg. Looks like&amp;nbsp; this place has taken its toll on this monster as well. Should probably keep this in mind.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;He is coming in hot, axe ready to strike.&amp;nbsp; Lets see if we can erase that smile!&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;1. Go for it. -Try to dodge and swing your sword to his right leg.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;2.&amp;nbsp; Lets surprise him. -Dash and throw your knife as soon as he goes for it.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="10" y="140" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wK1W2rStJV0fX94CkyXz-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#82b366;fontColor=#00CC00;fillColor=#d5e8d4;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-5" target="wK1W2rStJV0fX94CkyXz-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wK1W2rStJV0fX94CkyXz-5" value="&lt;p&gt;B.2 Attacking weak spot&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="10" y="400" width="150" height="80" as="geometry" />
+        <mxCell id="wK1W2rStJV0fX94CkyXz-5" value="&lt;span style=&quot;font-size: 5px&quot;&gt;B.2 Critical Strike&lt;/span&gt;&lt;br style=&quot;font-size: 5px&quot;&gt;&lt;span style=&quot;font-size: 5px&quot;&gt;Everything could hace gone sour really quicky, but luckily the sharp edge that passes near enough to shave you, doesn&#39;t&amp;nbsp; touch you at all. On the other hand, your blow seems to have done more than a little damage, judging by his face.&lt;/span&gt;&lt;br style=&quot;font-size: 5px&quot;&gt;&lt;span style=&quot;font-size: 5px&quot;&gt;You don&#39;t like to waste your time so you lift your sword above your head and bring it down with grace. The&amp;nbsp; former smirking giant doesn&#39;t seem like a lot when he is crouching, lifting his arm to block your blade. Well that&#39;s one arm less to worry about.&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 5px&quot;&gt;&lt;span style=&quot;font-size: 5px&quot;&gt;1. Continue&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="10" y="390" width="150" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="wK1W2rStJV0fX94CkyXz-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-6" target="wK1W2rStJV0fX94CkyXz-9">
+        <mxCell id="wK1W2rStJV0fX94CkyXz-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;fontFamily=Lucida Console;fontSize=60;fontColor=#00CC00;fillColor=#fff2cc;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-6" target="wK1W2rStJV0fX94CkyXz-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wK1W2rStJV0fX94CkyXz-6" value="&lt;p&gt;A.2 Aproaching from the left&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="350" y="30" width="150" height="80" as="geometry" />
+        <mxCell id="wK1W2rStJV0fX94CkyXz-6" value="&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;A.2 Injured!&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;Move to his left avoiding his axe, but as soon as you prepare your blade, he strikes a heavy punch in your nose.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;Ahh! Seems like he is not only huge but fast as well. Dammit!&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;Your head spins and your oponent loses no time. Time for some quick thinking or you are screwed.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;1. Lets roll. - Roll away to gain some distance.&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;2. Quick attack! -Stab him with some swift knife response.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="350" y="35" width="150" height="95" as="geometry" />
         </mxCell>
         <mxCell id="wK1W2rStJV0fX94CkyXz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-7" target="wK1W2rStJV0fX94CkyXz-16">
           <mxGeometry relative="1" as="geometry">
@@ -58,19 +58,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wK1W2rStJV0fX94CkyXz-7" value="&lt;p&gt;A.3 Aproaching from the right&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="350" y="130" width="150" height="80" as="geometry" />
+        <mxCell id="wK1W2rStJV0fX94CkyXz-7" value="&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;A.3 Aproaching from the right&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;You slide under his attack and with a swift move of your sword you leave a nice red trail on his side. The axe passes just a thumb away from your face, body and finally cuts your belt in half. That was too close.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;You strike again, this time hurting his back. He pushes you away with his elbow as he lets go a large scream. Is he suffering this or enjoing it?&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wK1W2rStJV0fX94CkyXz-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-9" target="wK1W2rStJV0fX94CkyXz-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wK1W2rStJV0fX94CkyXz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-9" target="wK1W2rStJV0fX94CkyXz-34">
+        <mxCell id="wK1W2rStJV0fX94CkyXz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1.011;exitY=0.783;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-6" target="wK1W2rStJV0fX94CkyXz-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="595" y="350" as="targetPoint" />
+            <mxPoint x="595" y="110" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="wK1W2rStJV0fX94CkyXz-9" value="&lt;p&gt;C.1 Injured&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="520" y="30" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wK1W2rStJV0fX94CkyXz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00CC00;labelBorderColor=#000000;strokeColor=#6c8ebf;fillColor=#dae8fc;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-10" target="wK1W2rStJV0fX94CkyXz-11">
           <mxGeometry relative="1" as="geometry">
@@ -90,7 +85,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wK1W2rStJV0fX94CkyXz-10" value="&lt;p&gt;C.2 Rolling Away&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="wK1W2rStJV0fX94CkyXz-10" value="&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;C.2 Rolling Away&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;You roll away rapidly , avoiding his hand by very little, as you turn to face him , you see he is going for a grab again. Time to act&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;1.Catch this! -Throw your knife&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;2. Got you first. -Grab his reachin hand.&amp;nbsp;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="690" y="30" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wK1W2rStJV0fX94CkyXz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-11">
@@ -106,7 +101,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wK1W2rStJV0fX94CkyXz-11" value="&lt;p&gt;A.4 Throw knife&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="wK1W2rStJV0fX94CkyXz-11" value="&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;A.4 Throw knife&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;Fast as lightning you grab your knife and throw it at great speed,&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;hurting and surprising him in equal parts. Seems like he didn&#39;t expected it. His stomach is bleeding badly.You did it! Or at least thats what your thought.&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;His smile goes wider and his eyes meaner. Looks like this wasn&#39;t that simple.&amp;nbsp;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="350" y="230" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wK1W2rStJV0fX94CkyXz-12" value="&lt;p&gt;A. Survive this time&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -115,7 +110,7 @@
         <mxCell id="wK1W2rStJV0fX94CkyXz-14" value="&lt;p&gt;A.Finish him&lt;/p&gt;&lt;p&gt;&amp;nbsp;for real&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1010" y="720" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wK1W2rStJV0fX94CkyXz-15" value="&lt;p&gt;C. Ask for mercy&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="wK1W2rStJV0fX94CkyXz-15" value="&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;C. Ask for mercy&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;That last blow really did the trick. As your body stops responding to your commands and your eyes slowly loose sight of that giant, a bright light appears in the dark. Something is comming from that bright tunnel that is growing in front of you. Looks like... like floating letters? As your mind comes to itself again, everything starts to make sense. &quot;Surely next time I&#39;ll beat him&quot;, you think as you take of your helmet, leaving the giant letters&amp;nbsp; float on its screen for no one... GAME OVER.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="410" y="720" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wK1W2rStJV0fX94CkyXz-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#82b366;fontColor=#00CC00;fillColor=#d5e8d4;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-16" target="wK1W2rStJV0fX94CkyXz-50">
@@ -127,17 +122,19 @@
         <mxCell id="wK1W2rStJV0fX94CkyXz-16" value="&lt;p&gt;D.0 Angry enemy&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1090" y="30" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wK1W2rStJV0fX94CkyXz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#b85450;fontColor=#00CC00;fillColor=#f8cecc;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-34" target="wK1W2rStJV0fX94CkyXz-15">
+        <mxCell id="wK1W2rStJV0fX94CkyXz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#b85450;fontColor=#00CC00;fillColor=#f8cecc;" edge="1" parent="1" target="wK1W2rStJV0fX94CkyXz-15">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="410" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="595" y="520" />
               <mxPoint x="490" y="520" />
               <mxPoint x="490" y="710" />
+              <mxPoint x="485" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wK1W2rStJV0fX94CkyXz-34" value="&lt;p&gt;C.3 Stab&lt;span&gt;&amp;nbsp;his hand&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="520" y="300" width="150" height="80" as="geometry" />
+        <mxCell id="wK1W2rStJV0fX94CkyXz-34" value="&lt;span style=&quot;font-size: 5px&quot;&gt;Stabibng his hand&lt;br&gt;He grabs you by your pony tail and lifts you to meet your face, smiling. His face changes to surprise as he sees your shinning little knife in your hand. seazing the opportunity you sink your blade into the arm holding you. Lets see how he likes that!&lt;br&gt;His grip doesn&#39;t seems to losen , instead it tightens. &quot;I&#39;m really in trouble now&quot; , you think as the axe aproaches.&lt;br&gt;1. Meet your fate.&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="520" y="300" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="wK1W2rStJV0fX94CkyXz-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#b85450;fontColor=#00CC00;fillColor=#f8cecc;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-37" target="wK1W2rStJV0fX94CkyXz-15">
           <mxGeometry relative="1" as="geometry">
@@ -148,8 +145,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wK1W2rStJV0fX94CkyXz-37" value="&lt;p&gt;C.4 Grab Him&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="690" y="300" width="150" height="80" as="geometry" />
+        <mxCell id="wK1W2rStJV0fX94CkyXz-37" value="&lt;p style=&quot;font-size: 5px&quot;&gt;&lt;font style=&quot;font-size: 5px&quot;&gt;C.4 Grab Him&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;You grab his hand before he reaches you. Ha! Who is grabbing who now, you big freak?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;But as soon as you try to twist his arm , he&amp;nbsp; breaks your grab as easily as if you were a child. What were you thinking?&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;With his other hand he smacks you with his axe&#39;s handle. You drop to the floor and when you look up again, you see the axe coming down again, but not by the handle&#39;s end this time.&lt;/p&gt;&lt;p style=&quot;font-size: 5px&quot;&gt;1 Make peace with your god.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="690" y="300" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wK1W2rStJV0fX94CkyXz-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#d6b656;fontColor=#00CC00;fillColor=#fff2cc;" edge="1" parent="1" source="wK1W2rStJV0fX94CkyXz-44" target="wK1W2rStJV0fX94CkyXz-65">
           <mxGeometry relative="1" as="geometry" />
